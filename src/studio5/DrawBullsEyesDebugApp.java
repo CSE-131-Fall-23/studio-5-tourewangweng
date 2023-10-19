@@ -25,6 +25,7 @@ public class DrawBullsEyesDebugApp {
 					break;
 				}
 			}
+			System.out.println("commit");
 			System.exit(0);
 		});
 	}
